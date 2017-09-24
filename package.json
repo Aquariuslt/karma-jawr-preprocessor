@@ -1,6 +1,6 @@
 {
   "name": "karma-jawr-preprocessor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "karma-processor for jawr: an java servlet way to load web-resources",
   "main": "lib/index.js",
   "repository": "https://github.com/Aquariuslt/karma-jawr-preprocessor",
